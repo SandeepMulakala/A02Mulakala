@@ -1,1 +1,1 @@
-# A02Mulakala
+Here we have created an webpage and it has other webpages linked to it one is contact and the other is idea.I contact people can contact me and send messages as well as the can get in touch with social media profile.In idea i have created a web page and added a BMI calculator.
